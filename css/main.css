@@ -1,0 +1,397 @@
+.icons {
+	background-image: url('http://ssl.gstatic.com/gb/images/v1_2e543709.png');
+	background-size: 112px 1828px;
+}
+
+header {
+	position : relative;
+	height : 60px;
+	min-width: 750px;
+	background-color: #f1f1f1;	
+
+	display: -webkit-flex;
+	display: flex;
+}
+/*logo*/
+.header-logo{
+1	border : 1px solid red;
+	width : 244px;
+	height: 100%;
+	line-height: 60px;
+	text-align: center;
+
+	-webkit-flex : 0 0 auto;
+	flex : 0 0 auto; 
+}
+.header-logo img{
+	width : 183px;
+	height: 39px;
+	vertical-align: middle;
+}
+/*search*/
+.header-search{
+	min-width: 200px;
+	width: 650px;
+	height: 60px;
+1	border : 1px solid blue;
+
+	-webkit-flex : 0 2 auto;
+	flex : 0 2 auto; 
+}
+.header-search form{
+
+	padding-top: 15px;
+	clear : both;
+	width : 100%;
+	height: 30px;
+
+	display: -webkit-flex;
+	display: flex;
+
+}
+.header-search fieldset{	
+	border : 1px solid;
+	border-color: rgba(0,0,0,.3);
+	background-color: #fff;
+
+	height: 28px;
+
+	-webkit-flex : 1 0 auto;
+	flex : 1 0 auto; 
+}
+.header-search input{
+	outline : none;
+
+	background : transparent;
+	margin-top: 4px;
+	padding: 0 5px 0 5px;
+	height: 20px;
+	width : 100%;
+}
+.header-search button{
+	background-color: #4285f4;	
+	width: 50px;
+	height: 30px;
+
+	-webkit-flex : 0 0 auto;
+	flex : 0 0 auto; 
+}
+.header-search button span{
+	background-position: -69px -349px;
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+
+}
+
+/*user-tools*/
+.header-usertools{
+	float : right;
+
+	min-width : 113px;
+	height: 60px;
+	padding : 0 30px 0 30px;
+
+	-webkit-flex : 1 1 auto;
+	flex : 1 1 auto; 
+}
+#usertools-wrap{
+	float : right;
+	min-width: 113px;
+	width : 113px;
+	height: 30px;
+
+	margin-top: 15px;
+
+	display: -webkit-flex;
+	display: flex;
+}
+#usertools-wrap .tools{
+	background-color: #f1f1f1;
+	background-position: -51px -452px;
+
+	width: 30px;
+	height : 30px;
+
+	-webkit-flex : 0 0 auto;
+	flex : 0 0 auto; 
+}
+#usertools-wrap .login{
+	font : 13px/27px Arial,sans-serif;
+
+	color : #fff;
+	border : 1px solid #4285f4;
+	padding: 0 12px;
+	margin-left: 15px;
+	-webkit-border-radius : 2px;
+	border-radius: 2px;
+	background-color: #4285f4;
+
+	line-height : 28px;
+
+	-webkit-flex : 0 0 auto;
+	flex : 0 0 auto; 	
+}
+/* header end */
+#up-nav{
+	position : relative;
+	width: 100%;
+	height : 48px;
+}
+.up-nav-container{
+	height : 100%;
+}
+#up-nav .up-nav-container:first-of-type{
+	float: left;
+
+	background-color: yellow;
+	margin-left: 238px;
+	width: 80px;
+}
+#up-nav .up-nav-container:nth-of-type(2) ul{
+	float: left;
+	height: 100%;
+}
+
+#up-nav .up-nav-container:nth-of-type(2) ul li{
+	background-color: blue;
+	width: 80px;
+}
+#up-nav .up-nav-container:nth-of-type(3){
+	float: right;
+	background-color: red;
+
+	width: 80px;
+}
+/* up-nav end */
+
+#side-nav{
+	background-color: #f3f3f3;
+	position : absolute;
+	top : 60px;
+	left : 0px;
+	
+	height:  240px;
+	width : 200px;
+}
+/* side nav end */
+
+/* main - footer */
+.content{
+	margin : 0 50px 0 248px;
+	font-family: "Roboto",Arial,sans-serif;
+	font-size: 13px;
+}
+
+main{
+	background-color: #e5e5e5;
+	position :relative;
+}
+.main-cardcluster{
+	width : 100%;
+1	background : yellow;
+	padding : 5px 0 15px 0;
+}
+.cardcluster-header{
+1	background-color : #eee;
+
+	display: inline-block;
+
+	position : relative;
+
+	height : 65px;
+	min-height: 37px;
+	min-width: 680px;
+	
+	padding : 5px;
+
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+   	ox-sizing: border-box;
+}
+.cardcluster-header h1{
+	height : 37px;
+
+	font-size: 28px;
+	font-weight: 100;
+}
+.cardcluster-header h2{
+	color: #555;
+
+	font-size: 16px;
+	font-weight: 300;
+	padding-bottom: 4px;
+
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+   	ox-sizing: border-box;
+}
+.cardcluster-header h3{
+
+}
+.cardcluster-header button{
+	background-color: #1aa1e1;
+	color : white;
+	font-size: 14px;
+	font-weight: 500;
+
+	width: 68px;
+	min-width : 42px;
+	height: 30px;
+	padding : 0 13px;
+
+	position: absolute;
+	bottom : 14px;
+	right : 5px;
+	line-height: 30px;
+
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+
+	text-align: center;
+	vertical-align: middle;
+}
+.cardcluster-header button:hover{
+	background-color: #1bb5ff;
+}
+.card-list {
+1	background-color: white;
+	max-height: 340px;
+	min-width: 680px;
+
+	position: relative;
+	overflow: hidden;
+}
+.card-list h1{
+	color: #333;
+	font-size: 16px;
+	line-height: 18px;
+	overflow: hidden;
+	text-decoration: none;
+	position: relative;
+	white-space: nowrap;
+}
+
+.card-list h2{
+	color: #aaa;
+	font-size: 13px;
+	line-height: 16px;
+}
+.card-list h3{
+	font-size: 13px;
+	font-weight: 400;
+	text-align: right;
+}
+.card-list li{
+	background-color: white;
+
+	float: left;
+	margin: 5px;
+
+	width: 160px;
+	height: 330px;
+}
+.card-list section{
+
+	position: relative;
+	width: 160px;
+	height: 100%;
+
+	-webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+	box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.bookcover{
+	position: relative;
+
+	background-color: rgb(245, 245, 245);
+
+	width: 100%;
+	height: 245px;
+	line-height: 245px;
+
+	text-align: center;
+
+	overflow: hidden;
+}
+.bookcover .action{
+	position: absolute;
+
+	width: 100%;
+	height: 100%;
+
+	background-color: rgba(0,0,0,0.4);
+
+	-moz-opacity: 0;
+	opacity: 0;
+	filter: alpha(opacity=0);
+
+	webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+.bookcover .action:hover{
+	-moz-opacity: 1;
+	opacity: 1;
+	filter: alpha(opacity=100);
+}
+.cover{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+
+}
+.cover img{
+	vertical-align: middle;
+}
+.detail{
+	position: relative;
+	padding: 7px 10px 0 10px;
+}
+.price button{
+	position: absolute;
+	bottom : 4px;
+	right : 5px;
+	color : #1aa1e1;
+}
+main .content{
+}
+/* main end */
+footer{
+	font-size: 13px;
+	padding-bottom: 30px;
+	width : 100%;
+	background-color: #e5e5e5;
+	position :relative;
+}
+footer a{
+	color : #333;
+}
+footer a:visited{
+	color : #8d8d8d;
+}
+footer a:hover{
+	text-decoration: underline;
+}
+footer > nav{
+	height: 18px;
+	padding : 28px 5px;
+}
+footer > nav > span{
+	float: left;
+	color: #555;
+	margin-right: 10px;
+}
+footer > nav > ul > li{
+	float: left;
+	color : red;
+	margin : 0 0 0 5px;
+	
+}
+footer > p{
+	color : #555;
+}
+footer .content{
+	color: #333;
+	font-weight: 400;
+	line-height: 1.4;
+}
+/* footer end */
