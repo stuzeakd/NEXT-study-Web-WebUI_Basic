@@ -389,7 +389,6 @@ header {
 	font-family: "Roboto",Arial,sans-serif;
 	font-size: 13px;
 }
-
 main{
 	background-color: #e5e5e5;
 	position :relative;
@@ -401,6 +400,21 @@ main{
 }
 .main-cardcluster:first-child{
 	padding-top: 25px;
+}
+.main-cardcluster-background .background {
+	max-height: 340px;
+	height:340px;
+	min-width: 680px;
+	background-color: gold;
+
+}
+.main-cardcluster-background li:first-of-type{
+	background: none;
+
+}
+.main-cardcluster-background li:first-of-type section{
+	-webkit-box-shadow: none;
+	box-shadow: none;
 }
 .cardcluster-header{
 1	background-color : #eee;
