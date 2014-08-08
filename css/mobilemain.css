@@ -1,0 +1,333 @@
+body{
+	font-family: "Roboto",Arial,sans-serif;
+	font-weight: 300;
+}
+
+.icons {
+	background-image: url('http://ssl.gstatic.com/gb/images/v1_2e543709.png');
+	background-size: 112px 1828px;
+}
+
+header {
+	position : relative;
+	height : 49px;
+	min-width: 400px;
+	background-color: #fff;	
+	border-bottom: 1px solid #aaa;
+	text-align: center;
+}
+/*logo*/
+.header-logo{
+	background-size: contain;
+	background-image: url(https://ssl.gstatic.com/android/market_images/web/logo_m_play.png);
+	width : 160px;
+	height :40px;
+	margin-top: 5px;
+	display: inline-block;
+}
+.header-sidenav{
+	float:left;
+	width:46px;
+	height:46px;
+}
+.header-sidenav > img{
+	width : 24px;
+	height : 24px;
+}
+.header-search{
+	float:right;
+	width: 46px;
+	height: 46px;
+}
+.header-search > img{
+	width : 24px;
+	height : 24px;
+}
+/* header end */
+
+#up-nav{
+	position : relative;
+	width: 100%;
+	height : auto;
+	border-top: 15px;
+	background-color: #e5e5e5;
+
+	list-style-type: none;
+	display: inline-block;
+	text-align: center;
+}
+#up-nav >ul{
+	margin-top: 15px;	
+	text-align: left;
+	display: inline-block;
+}
+
+@media screen and (max-width: 680px){
+	#up-nav > ul {
+		width: 515px;
+	}
+}
+@media screen and (max-width: 510px){
+	#up-nav > ul {
+		width: 345px;
+	}
+}
+
+#up-nav ul li{
+	font-size: 14px;
+	color: #333;
+	background-color: #fff;
+	width: 116px;
+	height: 34px;
+	margin: 5px;
+
+	border: 1px solid rgba(0,0,0,0.27);
+	border-radius: 2px;
+	padding: 0 20px;
+
+	line-height: 34px;
+	text-align: center;
+
+	display: inline-block;
+
+
+}
+
+/* up-nav end */
+
+/* main - footer */
+.content{
+	font-family: "Roboto",Arial,sans-serif;
+	font-size: 13px;
+}
+main{
+	text-align: center;
+	background-color: #e5e5e5;
+	position :relative;
+}
+.main-cardcluster{
+	display: inline-block;
+	text-align: left;
+	width : 100%;
+	padding : 5px 0 15px 0;
+}
+@media screen and (max-width: 680px){
+	.main-cardcluster{
+		width: 510px;	
+	}
+}
+@media screen and (max-width: 510px){
+	.main-cardcluster{
+		width: 340px;	
+	}
+}
+.main-cardcluster:first-child{
+	padding-top: 20px;
+}
+.main-cardcluster-background .background {
+	max-height: 340px;
+	height:340px;
+	width: 100%;
+}
+.cardcluster-header{
+	display: inline-block;
+
+	position : relative;
+
+	height : 48px;
+	width: 100%;
+	min-height: 37px;
+	max-width: 340px;
+	padding : 5px;
+
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+   	ox-sizing: border-box;
+}
+.cardcluster-header h1{
+	height : 28px;
+
+	font-size: 24px;
+	font-weight: 100;
+}
+.cardcluster-header h2{
+	color: #555;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 16px;
+	padding-bottom: 4px;
+
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+   	ox-sizing: border-box;
+}
+.cardcluster-header button{
+	background-color: #1aa1e1;
+	color : white;
+	font-size: 14px;
+	font-weight: 500;
+
+	width: 68px;
+	min-width : 42px;
+	height: 30px;
+	padding : 0 13px;
+
+	position: absolute;
+	bottom : 7px;
+	right : 5px;
+	line-height: 30px;
+
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+
+	text-align: center;
+}
+.cardcluster-header button:hover{
+	background-color: #1bb5ff;
+}
+.card-list {
+1	background-color: white;
+	max-height: 340px;
+	width: 100%;
+1	min-width: 680px;
+
+	position: relative;
+	overflow: hidden;
+}
+.card-list h1{
+	color: #333;
+	font-size: 16px;
+	line-height: 18px;
+	overflow: hidden;
+	text-decoration: none;
+	position: relative;
+	white-space: nowrap;
+}
+
+.card-list h2{
+	color: #aaa;
+	font-size: 13px;
+	line-height: 16px;
+}
+.card-list h3{
+	font-size: 13px;
+	font-weight: 400;
+	text-align: right;
+}
+.card-list li{
+	background-color: white;
+
+	float: left;
+	margin: 5px;
+
+	width: 160px;
+	height: 330px;
+}
+.card-list section{
+
+	position: relative;
+	width: 160px;
+	height: 100%;
+
+	-webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+	box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.bookcover{
+	position: relative;
+
+	background-color: rgb(245, 245, 245);
+
+	width: 100%;
+	height: 245px;
+	line-height: 245px;
+
+	text-align: center;
+
+	overflow: hidden;
+}
+.bookcover .action{
+	position: absolute;
+
+	width: 100%;
+	height: 100%;
+
+	background-color: rgba(0,0,0,0.4);
+
+	-moz-opacity: 0;
+	opacity: 0;
+	filter: alpha(opacity=0);
+
+	webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+.bookcover .action:hover{
+	-moz-opacity: 1;
+	opacity: 1;
+	filter: alpha(opacity=100);
+}
+.cover{
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+
+}
+.cover img{
+	vertical-align: middle;
+}
+.detail{
+	position: relative;
+	padding: 7px 10px 0 10px;
+}
+.price button{
+	position: absolute;
+	bottom : 4px;
+	right : 5px;
+	color : #1aa1e1;
+}
+main .content{
+}
+/* main end */
+footer{
+	clear: both;
+	font-size: 13px;
+	padding : 15px 0;
+	width : 100%;
+	min-width: :400px;
+	background-color: #e5e5e5;
+	position :relative;
+}
+footer a{
+	color : #333;
+}
+footer a:visited{
+	color : #8d8d8d;
+}
+footer a:hover{
+	text-decoration: underline;
+}
+footer > nav{
+	position: relative;
+	height: auto;
+	padding : 15px;
+}
+footer > nav > span{
+	float: left;
+	color: #555;
+	margin-right: 10px;
+
+}
+footer > nav > ul > li{
+	float: left;	
+	margin : 0 0 0 5px;
+	
+}
+footer > p{
+	clear: both;
+	position : relative;
+}
+footer .content{
+	color: #555;
+	font-weight: 400;
+	line-height: 1.4;
+}
+/* footer end */
