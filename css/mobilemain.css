@@ -182,9 +182,6 @@ main{
 
 	text-align: center;
 }
-.cardcluster-header button:hover{
-	background-color: #1bb5ff;
-}
 .card-list {
 1	background-color: white;
 	max-height: 340px;
@@ -259,11 +256,6 @@ main{
 
 	webkit-border-radius: 2px;
 	border-radius: 2px;
-}
-.bookcover .action:hover{
-	-moz-opacity: 1;
-	opacity: 1;
-	filter: alpha(opacity=100);
 }
 .cover{
 	display: inline-block;
