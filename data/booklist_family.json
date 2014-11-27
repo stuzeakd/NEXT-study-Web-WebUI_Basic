@@ -1,0 +1,153 @@
+[
+    {
+        "listTitle" : "새로나온 도서",
+        "bookList" : [
+            {
+                "title" :"게으름뱅이 탈출학교",
+                "imgSrc" :"image/family/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%ED%99%A9%EA%B7%BC%EA%B8%B0_%EA%B2%8C%EC%9C%BC%EB%A6%84%EB%B1%85%EC%9D%B4_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=q9sZBAAAQBAJ",
+                "author" : "황근기",
+                "price" : "6,000"
+            },    
+            {
+                "title" :"초등고민 탈출학교",
+                "imgSrc" :"image/family/book01_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%9D%B4%EB%AF%BC%EC%8B%9D_%EC%B4%88%EB%93%B1%EA%B3%A0%EB%AF%BC_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=3as9BAAAQBAJ",
+                "author" : "이민식",
+                "price" : "6,000"
+            },
+            {
+                "title" :"게으름뱅이 탈출학교",
+                "imgSrc" :"image/family/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%ED%99%A9%EA%B7%BC%EA%B8%B0_%EA%B2%8C%EC%9C%BC%EB%A6%84%EB%B1%85%EC%9D%B4_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=q9sZBAAAQBAJ",
+                "author" : "황근기",
+                "price" : "6,000"
+            },    
+            {
+                "title" :"초등고민 탈출학교",
+                "imgSrc" :"image/family/book01_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%9D%B4%EB%AF%BC%EC%8B%9D_%EC%B4%88%EB%93%B1%EA%B3%A0%EB%AF%BC_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=3as9BAAAQBAJ",
+                "author" : "이민식",
+                "price" : "6,000"
+            },
+            {
+                "title" :"게으름뱅이 탈출학교",
+                "imgSrc" :"image/family/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%ED%99%A9%EA%B7%BC%EA%B8%B0_%EA%B2%8C%EC%9C%BC%EB%A6%84%EB%B1%85%EC%9D%B4_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=q9sZBAAAQBAJ",
+                "author" : "황근기",
+                "price" : "6,000"
+            },    
+            {
+                "title" :"초등고민 탈출학교",
+                "imgSrc" :"image/family/book01_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%9D%B4%EB%AF%BC%EC%8B%9D_%EC%B4%88%EB%93%B1%EA%B3%A0%EB%AF%BC_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=3as9BAAAQBAJ",
+                "author" : "이민식",
+                "price" : "6,000"
+            },
+            {
+                "title" :"게으름뱅이 탈출학교",
+                "imgSrc" :"image/family/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%ED%99%A9%EA%B7%BC%EA%B8%B0_%EA%B2%8C%EC%9C%BC%EB%A6%84%EB%B1%85%EC%9D%B4_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=q9sZBAAAQBAJ",
+                "author" : "황근기",
+                "price" : "6,000"
+            },    
+            {
+                "title" :"초등고민 탈출학교",
+                "imgSrc" :"image/family/book01_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%9D%B4%EB%AF%BC%EC%8B%9D_%EC%B4%88%EB%93%B1%EA%B3%A0%EB%AF%BC_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=3as9BAAAQBAJ",
+                "author" : "이민식",
+                "price" : "6,000"
+            },
+            {
+                "title" :"게으름뱅이 탈출학교",
+                "imgSrc" :"image/family/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%ED%99%A9%EA%B7%BC%EA%B8%B0_%EA%B2%8C%EC%9C%BC%EB%A6%84%EB%B1%85%EC%9D%B4_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=q9sZBAAAQBAJ",
+                "author" : "황근기",
+                "price" : "6,000"
+            },    
+            {
+                "title" :"초등고민 탈출학교",
+                "imgSrc" :"image/family/book01_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%9D%B4%EB%AF%BC%EC%8B%9D_%EC%B4%88%EB%93%B1%EA%B3%A0%EB%AF%BC_%ED%83%88%EC%B6%9C%ED%95%99%EA%B5%90?id=3as9BAAAQBAJ",
+                "author" : "이민식",
+                "price" : "6,000"
+            }
+        ]
+    },
+    {
+        "listTitle" : "베스트셀러",
+        "bookList" : [
+            {
+                "title" :"30일 안에 내사람 만들기",
+                "imgSrc" :"image/family/book02_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%B5%9C%EC%A0%95_30%EC%9D%BC_%EC%95%88%EC%97%90_%EB%82%B4_%EC%82%AC%EB%9E%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0?id=LF9UMl9DALsC",
+                "author" : "최정",
+                "price" : "8,000"
+            },    
+            {
+                "title" :"존 가트맨, 최성애애 박사의 내 아이를 위한 감정 코칭",
+                "imgSrc" :"image/family/book02_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%99%B8_%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%B5%9C%EC%84%B1%EC%95%A0_%EB%B0%95%EC%82%AC%EC%9D%98_%EB%82%B4_%EC%95%84%EC%9D%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B0%90%EC%A0%95_%EC%BD%94%EC%B9%AD?id=tpB99PN2arAC",
+                "author" : "존 가트맨 외",
+                "price" : "11,840"
+            },
+            {
+                "title" :"30일 안에 내사람 만들기",
+                "imgSrc" :"image/family/book02_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%B5%9C%EC%A0%95_30%EC%9D%BC_%EC%95%88%EC%97%90_%EB%82%B4_%EC%82%AC%EB%9E%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0?id=LF9UMl9DALsC",
+                "author" : "최정",
+                "price" : "8,000"
+            },    
+            {
+                "title" :"존 가트맨, 최성애애 박사의 내 아이를 위한 감정 코칭",
+                "imgSrc" :"image/family/book02_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%99%B8_%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%B5%9C%EC%84%B1%EC%95%A0_%EB%B0%95%EC%82%AC%EC%9D%98_%EB%82%B4_%EC%95%84%EC%9D%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B0%90%EC%A0%95_%EC%BD%94%EC%B9%AD?id=tpB99PN2arAC",
+                "author" : "존 가트맨 외",
+                "price" : "11,840"
+            },
+            {
+                "title" :"30일 안에 내사람 만들기",
+                "imgSrc" :"image/family/book02_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%B5%9C%EC%A0%95_30%EC%9D%BC_%EC%95%88%EC%97%90_%EB%82%B4_%EC%82%AC%EB%9E%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0?id=LF9UMl9DALsC",
+                "author" : "최정",
+                "price" : "8,000"
+            },    
+            {
+                "title" :"존 가트맨, 최성애애 박사의 내 아이를 위한 감정 코칭",
+                "imgSrc" :"image/family/book02_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%99%B8_%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%B5%9C%EC%84%B1%EC%95%A0_%EB%B0%95%EC%82%AC%EC%9D%98_%EB%82%B4_%EC%95%84%EC%9D%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B0%90%EC%A0%95_%EC%BD%94%EC%B9%AD?id=tpB99PN2arAC",
+                "author" : "존 가트맨 외",
+                "price" : "11,840"
+            },
+            {
+                "title" :"30일 안에 내사람 만들기",
+                "imgSrc" :"image/family/book02_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%B5%9C%EC%A0%95_30%EC%9D%BC_%EC%95%88%EC%97%90_%EB%82%B4_%EC%82%AC%EB%9E%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0?id=LF9UMl9DALsC",
+                "author" : "최정",
+                "price" : "8,000"
+            },    
+            {
+                "title" :"존 가트맨, 최성애애 박사의 내 아이를 위한 감정 코칭",
+                "imgSrc" :"image/family/book02_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%99%B8_%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%B5%9C%EC%84%B1%EC%95%A0_%EB%B0%95%EC%82%AC%EC%9D%98_%EB%82%B4_%EC%95%84%EC%9D%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B0%90%EC%A0%95_%EC%BD%94%EC%B9%AD?id=tpB99PN2arAC",
+                "author" : "존 가트맨 외",
+                "price" : "11,840"
+            },
+            {
+                "title" :"30일 안에 내사람 만들기",
+                "imgSrc" :"image/family/book02_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%B5%9C%EC%A0%95_30%EC%9D%BC_%EC%95%88%EC%97%90_%EB%82%B4_%EC%82%AC%EB%9E%8C_%EB%A7%8C%EB%93%A4%EA%B8%B0?id=LF9UMl9DALsC",
+                "author" : "최정",
+                "price" : "8,000"
+            },    
+            {
+                "title" :"존 가트맨, 최성애애 박사의 내 아이를 위한 감정 코칭",
+                "imgSrc" :"image/family/book02_02.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%99%B8_%EC%A1%B4_%EA%B0%80%ED%8A%B8%EB%A7%A8_%EC%B5%9C%EC%84%B1%EC%95%A0_%EB%B0%95%EC%82%AC%EC%9D%98_%EB%82%B4_%EC%95%84%EC%9D%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B0%90%EC%A0%95_%EC%BD%94%EC%B9%AD?id=tpB99PN2arAC",
+                "author" : "존 가트맨 외",
+                "price" : "11,840"
+            }
+        ]
+    }
+            
+]

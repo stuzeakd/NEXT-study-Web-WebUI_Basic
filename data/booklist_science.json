@@ -1,0 +1,124 @@
+[
+    {
+        "listTitle" : "새로나온 도서",
+        "bookList" : [
+            {
+                "title" :"노벨상과 수리공 : 과학을 뛰어넘은 엔지니어링 이야기",
+                "imgSrc" :"image/science/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EA%B6%8C%EC%98%A4%EC%83%81_%EB%85%B8%EB%B2%A8%EC%83%81%EA%B3%BC_%EC%88%98%EB%A6%AC%EA%B3%B5_%EA%B3%BC%ED%95%99%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=Ne6pAwAAQBAJ",
+                "author" : "권오상",
+                "price" : "8,800"
+            },
+            {
+                "title" : "에포컬 모멘텀: 한국 과학사의 획기적인 순간들",
+                "imgSrc" : "image/science/book01_02.jpg",
+                "src" : "https://play.google.com/store/books/details/%ED%95%9C%EB%8F%84%ED%98%84_%EC%97%90%ED%8F%AC%EC%BB%AC_%EB%AA%A8%EB%A9%98%ED%85%80?id=H5_bAwAAQBAJ",
+                "author" : "한도현",
+                "price" : "9,100"
+            },
+            {
+                "title" :"노벨상과 수리공 : 과학을 뛰어넘은 엔지니어링 이야기",
+                "imgSrc" :"image/science/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EA%B6%8C%EC%98%A4%EC%83%81_%EB%85%B8%EB%B2%A8%EC%83%81%EA%B3%BC_%EC%88%98%EB%A6%AC%EA%B3%B5_%EA%B3%BC%ED%95%99%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=Ne6pAwAAQBAJ",
+                "author" : "권오상",
+                "price" : "8,800"
+            },
+            {
+                "title" : "에포컬 모멘텀: 한국 과학사의 획기적인 순간들",
+                "imgSrc" : "image/science/book01_02.jpg",
+                "src" : "https://play.google.com/store/books/details/%ED%95%9C%EB%8F%84%ED%98%84_%EC%97%90%ED%8F%AC%EC%BB%AC_%EB%AA%A8%EB%A9%98%ED%85%80?id=H5_bAwAAQBAJ",
+                "author" : "한도현",
+                "price" : "9,100"
+            },
+            {
+                "title" :"노벨상과 수리공 : 과학을 뛰어넘은 엔지니어링 이야기",
+                "imgSrc" :"image/science/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EA%B6%8C%EC%98%A4%EC%83%81_%EB%85%B8%EB%B2%A8%EC%83%81%EA%B3%BC_%EC%88%98%EB%A6%AC%EA%B3%B5_%EA%B3%BC%ED%95%99%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=Ne6pAwAAQBAJ",
+                "author" : "권오상",
+                "price" : "8,800"
+            },
+            {
+                "title" : "에포컬 모멘텀: 한국 과학사의 획기적인 순간들",
+                "imgSrc" : "image/science/book01_02.jpg",
+                "src" : "https://play.google.com/store/books/details/%ED%95%9C%EB%8F%84%ED%98%84_%EC%97%90%ED%8F%AC%EC%BB%AC_%EB%AA%A8%EB%A9%98%ED%85%80?id=H5_bAwAAQBAJ",
+                "author" : "한도현",
+                "price" : "9,100"
+            },
+            {
+                "title" :"노벨상과 수리공 : 과학을 뛰어넘은 엔지니어링 이야기",
+                "imgSrc" :"image/science/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EA%B6%8C%EC%98%A4%EC%83%81_%EB%85%B8%EB%B2%A8%EC%83%81%EA%B3%BC_%EC%88%98%EB%A6%AC%EA%B3%B5_%EA%B3%BC%ED%95%99%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=Ne6pAwAAQBAJ",
+                "author" : "권오상",
+                "price" : "8,800"
+            },
+            {
+                "title" : "에포컬 모멘텀: 한국 과학사의 획기적인 순간들",
+                "imgSrc" : "image/science/book01_02.jpg",
+                "src" : "https://play.google.com/store/books/details/%ED%95%9C%EB%8F%84%ED%98%84_%EC%97%90%ED%8F%AC%EC%BB%AC_%EB%AA%A8%EB%A9%98%ED%85%80?id=H5_bAwAAQBAJ",
+                "author" : "한도현",
+                "price" : "9,100"
+            }
+        ]
+    },
+    {
+        "listTitle" : "베스트셀러",
+        "bookList" : [
+            {
+                "title" :"노벨상과 수리공 : 과학을 뛰어넘은 엔지니어링 이야기",
+                "imgSrc" :"image/science/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EA%B6%8C%EC%98%A4%EC%83%81_%EB%85%B8%EB%B2%A8%EC%83%81%EA%B3%BC_%EC%88%98%EB%A6%AC%EA%B3%B5_%EA%B3%BC%ED%95%99%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=Ne6pAwAAQBAJ",
+                "author" : "권오상",
+                "price" : "8,800"
+            },
+            {
+                "title" : "에포컬 모멘텀: 한국 과학사의 획기적인 순간들",
+                "imgSrc" : "image/science/book01_02.jpg",
+                "src" : "https://play.google.com/store/books/details/%ED%95%9C%EB%8F%84%ED%98%84_%EC%97%90%ED%8F%AC%EC%BB%AC_%EB%AA%A8%EB%A9%98%ED%85%80?id=H5_bAwAAQBAJ",
+                "author" : "한도현",
+                "price" : "9,100"
+            },
+            {
+                "title" :"노벨상과 수리공 : 과학을 뛰어넘은 엔지니어링 이야기",
+                "imgSrc" :"image/science/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EA%B6%8C%EC%98%A4%EC%83%81_%EB%85%B8%EB%B2%A8%EC%83%81%EA%B3%BC_%EC%88%98%EB%A6%AC%EA%B3%B5_%EA%B3%BC%ED%95%99%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=Ne6pAwAAQBAJ",
+                "author" : "권오상",
+                "price" : "8,800"
+            },
+            {
+                "title" : "에포컬 모멘텀: 한국 과학사의 획기적인 순간들",
+                "imgSrc" : "image/science/book01_02.jpg",
+                "src" : "https://play.google.com/store/books/details/%ED%95%9C%EB%8F%84%ED%98%84_%EC%97%90%ED%8F%AC%EC%BB%AC_%EB%AA%A8%EB%A9%98%ED%85%80?id=H5_bAwAAQBAJ",
+                "author" : "한도현",
+                "price" : "9,100"
+            },
+            {
+                "title" :"노벨상과 수리공 : 과학을 뛰어넘은 엔지니어링 이야기",
+                "imgSrc" :"image/science/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EA%B6%8C%EC%98%A4%EC%83%81_%EB%85%B8%EB%B2%A8%EC%83%81%EA%B3%BC_%EC%88%98%EB%A6%AC%EA%B3%B5_%EA%B3%BC%ED%95%99%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=Ne6pAwAAQBAJ",
+                "author" : "권오상",
+                "price" : "8,800"
+            },
+            {
+                "title" : "에포컬 모멘텀: 한국 과학사의 획기적인 순간들",
+                "imgSrc" : "image/science/book01_02.jpg",
+                "src" : "https://play.google.com/store/books/details/%ED%95%9C%EB%8F%84%ED%98%84_%EC%97%90%ED%8F%AC%EC%BB%AC_%EB%AA%A8%EB%A9%98%ED%85%80?id=H5_bAwAAQBAJ",
+                "author" : "한도현",
+                "price" : "9,100"
+            },
+            {
+                "title" :"노벨상과 수리공 : 과학을 뛰어넘은 엔지니어링 이야기",
+                "imgSrc" :"image/science/book01_01.jpg",
+                "src" :  "https://play.google.com/store/books/details/%EA%B6%8C%EC%98%A4%EC%83%81_%EB%85%B8%EB%B2%A8%EC%83%81%EA%B3%BC_%EC%88%98%EB%A6%AC%EA%B3%B5_%EA%B3%BC%ED%95%99%EC%9D%84_%EB%9B%B0%EC%96%B4%EB%84%98%EC%9D%80_%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81_%EC%9D%B4%EC%95%BC%EA%B8%B0?id=Ne6pAwAAQBAJ",
+                "author" : "권오상",
+                "price" : "8,800"
+            },
+            {
+                "title" : "에포컬 모멘텀: 한국 과학사의 획기적인 순간들",
+                "imgSrc" : "image/science/book01_02.jpg",
+                "src" : "https://play.google.com/store/books/details/%ED%95%9C%EB%8F%84%ED%98%84_%EC%97%90%ED%8F%AC%EC%BB%AC_%EB%AA%A8%EB%A9%98%ED%85%80?id=H5_bAwAAQBAJ",
+                "author" : "한도현",
+                "price" : "9,100"
+            }
+        ]
+    }
+]
